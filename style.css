@@ -1,6 +1,6 @@
 body{
     font-family:  Roboto;
-    background-image: linear-gradient(to right,#042C55,#042C55, #042C55 ,#042C55, #1B79DD);
+    background-image: linear-gradient(to right,#042C55,#082e55, #0b4c8d ,#0c559e, #1B79DD);
 }
 h1,h2{
     text-align: center;
@@ -34,7 +34,7 @@ hr{
     background: linear-gradient(to right, #B370DE, #F19565);
 }
 img{
-    width:200px;
+    width: 225px;
     height:225px;
 }
 a{
